@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="utf-8"?>
+<search>
+  
+  
+    
+    <entry>
+      <title><![CDATA[test2]]></title>
+      <url>http://blog.can2.moe/2016/06/05/test2/</url>
+      <content type="html"></content>
+    </entry>
+    
+    <entry>
+      <title><![CDATA[test]]></title>
+      <url>http://blog.can2.moe/2016/06/05/test/</url>
+      <content type="html"><![CDATA[<p>这是一堆文字～</p>
+]]></content>
+    </entry>
+    
+  
+  
+</search>
