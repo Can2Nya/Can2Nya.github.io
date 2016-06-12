@@ -1,0 +1,52 @@
+<?xml version="1.0" encoding="utf-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom">
+  <title>can2&#39;s blog</title>
+  <subtitle>(:3rz</subtitle>
+  <link href="/atom.xml" rel="self"/>
+  
+  <link href="http://blog.can2.moe/"/>
+  <updated>2016-06-12T11:42:11.000Z</updated>
+  <id>http://blog.can2.moe/</id>
+  
+  <author>
+    <name>can2</name>
+    
+  </author>
+  
+  <generator uri="http://hexo.io/">Hexo</generator>
+  
+  <entry>
+    <title>第一次的hexo</title>
+    <link href="http://blog.can2.moe/2016/06/11/%E7%AC%AC%E4%B8%80%E6%AC%A1%E7%9A%84hexo/"/>
+    <id>http://blog.can2.moe/2016/06/11/第一次的hexo/</id>
+    <published>2016-06-11T12:39:00.000Z</published>
+    <updated>2016-06-12T11:42:11.000Z</updated>
+    
+    <content type="html">&lt;h1 id=&quot;博客什么的&quot;&gt;&lt;a href=&quot;#博客什么的&quot; class=&quot;headerlink&quot; title=&quot;博客什么的&quot;&gt;&lt;/a&gt;博客什么的&lt;/h1&gt;&lt;p&gt;其实并不是第一次拥有自己的博客，本着［干物］精神连原来的博客都不造在哪了。。。。&lt;br&gt;加上学姐安利的hexo博客框架&lt;br&gt;于是干脆从新来吧0v0（花钱买的域名自己肯定不会放置play的）&lt;/p&gt;
+&lt;a id=&quot;more&quot;&gt;&lt;/a&gt;
+&lt;h1 id=&quot;开始行动！&quot;&gt;&lt;a href=&quot;#开始行动！&quot; class=&quot;headerlink&quot; title=&quot;开始行动！&quot;&gt;&lt;/a&gt;开始行动！&lt;/h1&gt;&lt;p&gt;hexo3.0+的&lt;a href=&quot;https://hexo.io/zh-cn/&quot; target=&quot;_blank&quot; rel=&quot;external&quot;&gt;官方文档&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;以及参考学姐的&lt;a href=&quot;https://blog.kdwycz.com/2015/11/30/hello-hexo/&quot; target=&quot;_blank&quot; rel=&quot;external&quot;&gt;配置过程&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;看起来很简单的样子呢。。。（然而实际耗费两天精力）&lt;br&gt;过程不再重复描述，这里就说说自己遇到的坑&lt;/p&gt;
+&lt;h2 id=&quot;坑1-npm-install-没有反应&quot;&gt;&lt;a href=&quot;#坑1-npm-install-没有反应&quot; class=&quot;headerlink&quot; title=&quot;坑1 npm install 没有反应&quot;&gt;&lt;/a&gt;坑1 npm install 没有反应&lt;/h2&gt;&lt;p&gt;症状大概这样&lt;br&gt;&lt;img src=&quot;/2016/06/11/第一次的hexo/1.png&quot; alt=&quot;1.png&quot; title=&quot;&quot;&gt;&lt;/p&gt;
+&lt;p&gt;原因不明。。。。&lt;br&gt;解决方法大概就是把目录下的’package.json’中的列出来的包挨个装上（mdzz&lt;/p&gt;
+&lt;h2 id=&quot;坑2-无法推送到远端git仓库&quot;&gt;&lt;a href=&quot;#坑2-无法推送到远端git仓库&quot; class=&quot;headerlink&quot; title=&quot;坑2 无法推送到远端git仓库&quot;&gt;&lt;/a&gt;坑2 无法推送到远端git仓库&lt;/h2&gt;&lt;p&gt;具体问题咱在sf上有&lt;a href=&quot;https://segmentfault.com/q/1010000005650284&quot; target=&quot;_blank&quot; rel=&quot;external&quot;&gt;提问&lt;/a&gt;&lt;/p&gt;
+&lt;h1 id=&quot;总结&quot;&gt;&lt;a href=&quot;#总结&quot; class=&quot;headerlink&quot; title=&quot;总结&quot;&gt;&lt;/a&gt;总结&lt;/h1&gt;&lt;p&gt;虽说有问题先找度娘，但是网上的教程方法大都参差不齐，这种［搜索式的学习］反而会留下各种奇怪的坑。&lt;/p&gt;
+&lt;p&gt;后面找到这篇&lt;a href=&quot;https://xuanwo.org/2014/08/14/hexo-usual-problem/&quot; target=&quot;_blank&quot; rel=&quot;external&quot;&gt;关于hexo常见问题解决方案&lt;/a&gt;的文章，有种相见恨晚的感觉。。。&lt;/p&gt;
+</content>
+    
+    <summary type="html">
+    
+      &lt;h1 id=&quot;博客什么的&quot;&gt;&lt;a href=&quot;#博客什么的&quot; class=&quot;headerlink&quot; title=&quot;博客什么的&quot;&gt;&lt;/a&gt;博客什么的&lt;/h1&gt;&lt;p&gt;其实并不是第一次拥有自己的博客，本着［干物］精神连原来的博客都不造在哪了。。。。&lt;br&gt;加上学姐安利的hexo博客框架&lt;br&gt;于是干脆从新来吧0v0（花钱买的域名自己肯定不会放置play的）&lt;/p&gt;
+    
+    </summary>
+    
+      <category term="hexo" scheme="http://blog.can2.moe/categories/hexo/"/>
+    
+    
+      <category term="hexo" scheme="http://blog.can2.moe/tags/hexo/"/>
+    
+      <category term="日常" scheme="http://blog.can2.moe/tags/%E6%97%A5%E5%B8%B8/"/>
+    
+  </entry>
+  
+</feed>

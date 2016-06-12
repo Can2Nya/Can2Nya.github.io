@@ -4,15 +4,18 @@
   
     
     <entry>
-      <title><![CDATA[test2]]></title>
-      <url>http://blog.can2.moe/2016/06/05/test2/</url>
-      <content type="html"></content>
-    </entry>
-    
-    <entry>
-      <title><![CDATA[test]]></title>
-      <url>http://blog.can2.moe/2016/06/05/test/</url>
-      <content type="html"><![CDATA[<p>这是一堆文字～</p>
+      <title><![CDATA[第一次的hexo]]></title>
+      <url>http://blog.can2.moe/2016/06/11/%E7%AC%AC%E4%B8%80%E6%AC%A1%E7%9A%84hexo/</url>
+      <content type="html"><![CDATA[<h1 id="博客什么的"><a href="#博客什么的" class="headerlink" title="博客什么的"></a>博客什么的</h1><p>其实并不是第一次拥有自己的博客，本着［干物］精神连原来的博客都不造在哪了。。。。<br>加上学姐安利的hexo博客框架<br>于是干脆从新来吧0v0（花钱买的域名自己肯定不会放置play的）</p>
+<a id="more"></a>
+<h1 id="开始行动！"><a href="#开始行动！" class="headerlink" title="开始行动！"></a>开始行动！</h1><p>hexo3.0+的<a href="https://hexo.io/zh-cn/" target="_blank" rel="external">官方文档</a></p>
+<p>以及参考学姐的<a href="https://blog.kdwycz.com/2015/11/30/hello-hexo/" target="_blank" rel="external">配置过程</a></p>
+<p>看起来很简单的样子呢。。。（然而实际耗费两天精力）<br>过程不再重复描述，这里就说说自己遇到的坑</p>
+<h2 id="坑1-npm-install-没有反应"><a href="#坑1-npm-install-没有反应" class="headerlink" title="坑1 npm install 没有反应"></a>坑1 npm install 没有反应</h2><p>症状大概这样<br><img src="/2016/06/11/第一次的hexo/1.png" alt="1.png" title=""></p>
+<p>原因不明。。。。<br>解决方法大概就是把目录下的’package.json’中的列出来的包挨个装上（mdzz</p>
+<h2 id="坑2-无法推送到远端git仓库"><a href="#坑2-无法推送到远端git仓库" class="headerlink" title="坑2 无法推送到远端git仓库"></a>坑2 无法推送到远端git仓库</h2><p>具体问题咱在sf上有<a href="https://segmentfault.com/q/1010000005650284" target="_blank" rel="external">提问</a></p>
+<h1 id="总结"><a href="#总结" class="headerlink" title="总结"></a>总结</h1><p>虽说有问题先找度娘，但是网上的教程方法大都参差不齐，这种［搜索式的学习］反而会留下各种奇怪的坑。</p>
+<p>后面找到这篇<a href="https://xuanwo.org/2014/08/14/hexo-usual-problem/" target="_blank" rel="external">关于hexo常见问题解决方案</a>的文章，有种相见恨晚的感觉。。。</p>
 ]]></content>
     </entry>
     
