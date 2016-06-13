@@ -4,6 +4,28 @@
   
     
     <entry>
+      <title><![CDATA[对手机icon设计的浅认识]]></title>
+      <url>http://blog.can2.moe/2016/06/13/%E5%AF%B9%E6%89%8B%E6%9C%BAicon%E8%AE%BE%E8%AE%A1%E7%9A%84%E6%B5%85%E8%AE%A4%E8%AF%86/</url>
+      <content type="html"><![CDATA[<h1 id="起源"><a href="#起源" class="headerlink" title="起源"></a>起源</h1><p>接到师大＋前辈设计的icon，不免深思起来<br>(略多图)<br><a id="more"></a></p>
+<p>经过建模后得到草图，以及一个一个拼凑起来的三角形<br>简直有毒哇！！！这个工程量［膜拜模式QwQrz］<br><img src="/2016/06/13/对手机icon设计的浅认识/8.png" alt="8.png" title=""></p>
+<p>然而最终效果却略感觉违和感。。。<br><img src="/2016/06/13/对手机icon设计的浅认识/1.png" alt="1.png" title=""></p>
+<p>扁平的轮廓加上三角形纹理的师大正大坊［似乎感觉那里不对<br>然而失去纹理的正大坊看起来和天线差不多（？<br><img src="/2016/06/13/对手机icon设计的浅认识/6.png" alt="6.png" title=""><br>于是自己尝试不丢弃纹理的情况下改进一下</p>
+<h1 id="脑洞开始"><a href="#脑洞开始" class="headerlink" title="脑洞开始"></a>脑洞开始</h1><p>参照itunes的图标，背景用渐变色衬托，白色的背景也是显得比较有质感</p>
+<p>于是决定采用亮红－&gt; 暗红的渐变配色，正大坊和轮廓统一纹理<br>稍微亮些的红在右上角，感觉就像是阳光从右上斜照下来<br>白色背景也适当添加了些渐变<br>为了凸显正大坊，在正大坊添加了阴影<br>于是。。。。</p>
+<img src="/2016/06/13/对手机icon设计的浅认识/2.png" alt="2.png" title="">
+<p>大图看起很正常的样子，然而手机安装完应用的样子。。。</p>
+<img src="/2016/06/13/对手机icon设计的浅认识/3.jpg" alt="3.jpg" title="">
+<img src="/2016/06/13/对手机icon设计的浅认识/4.jpg" alt="4.jpg" title="">
+<img src="/2016/06/13/对手机icon设计的浅认识/5.jpg" alt="5.jpg" title="">
+<p>［一脸蒙逼］<br>特效过多反而和周围的图标显得格格不入，<br>而且貌似手机会自动剪裁图标或者加上各种奇怪的特效的样子。</p>
+<p>经过一阵挣扎后，前辈重新做了方形的icon</p>
+<img src="/2016/06/13/对手机icon设计的浅认识/7.png" alt="7.png" title="">
+<p>［效果图不贴惹～］</p>
+<h1 id="结语"><a href="#结语" class="headerlink" title="结语"></a>结语</h1><p>貌似移动设备的桌面多多少少总会出现些［统一全局］的样式<br>即便在原生系统桌面下<br>在这种状况下，应当突出图标的中心，放弃各种多余的修饰。［为什么一开始没发现呢orz］</p>
+]]></content>
+    </entry>
+    
+    <entry>
       <title><![CDATA[第一次的hexo]]></title>
       <url>http://blog.can2.moe/2016/06/11/%E7%AC%AC%E4%B8%80%E6%AC%A1%E7%9A%84hexo/</url>
       <content type="html"><![CDATA[<h1 id="博客什么的"><a href="#博客什么的" class="headerlink" title="博客什么的"></a>博客什么的</h1><p>其实并不是第一次拥有自己的博客，本着［干物］精神连原来的博客都不造在哪了。。。。<br>加上学姐安利的hexo博客框架<br>于是干脆从新来吧0v0（花钱买的域名自己肯定不会放置play的）</p>
@@ -16,6 +38,7 @@
 <h2 id="坑2-无法推送到远端git仓库"><a href="#坑2-无法推送到远端git仓库" class="headerlink" title="坑2 无法推送到远端git仓库"></a>坑2 无法推送到远端git仓库</h2><p>具体问题咱在sf上有<a href="https://segmentfault.com/q/1010000005650284" target="_blank" rel="external">提问</a></p>
 <h1 id="总结"><a href="#总结" class="headerlink" title="总结"></a>总结</h1><p>虽说有问题先找度娘，但是网上的教程方法大都参差不齐，这种［搜索式的学习］反而会留下各种奇怪的坑。</p>
 <p>后面找到这篇<a href="https://xuanwo.org/2014/08/14/hexo-usual-problem/" target="_blank" rel="external">关于hexo常见问题解决方案</a>的文章，有种相见恨晚的感觉。。。</p>
+<h1 id="链接"><a href="#链接" class="headerlink" title="链接"></a>链接</h1><p>漩涡的文章－<a href="https://xuanwo.org/2014/08/14/hexo-usual-problem/" target="_blank" rel="external">关于hexo常见问题解决方案</a></p>
 ]]></content>
     </entry>
     

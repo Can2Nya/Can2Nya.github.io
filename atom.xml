@@ -5,7 +5,7 @@
   <link href="/atom.xml" rel="self"/>
   
   <link href="http://blog.can2.moe/"/>
-  <updated>2016-06-12T11:42:11.000Z</updated>
+  <updated>2016-06-13T09:31:03.000Z</updated>
   <id>http://blog.can2.moe/</id>
   
   <author>
@@ -16,11 +16,53 @@
   <generator uri="http://hexo.io/">Hexo</generator>
   
   <entry>
+    <title>对手机icon设计的浅认识</title>
+    <link href="http://blog.can2.moe/2016/06/13/%E5%AF%B9%E6%89%8B%E6%9C%BAicon%E8%AE%BE%E8%AE%A1%E7%9A%84%E6%B5%85%E8%AE%A4%E8%AF%86/"/>
+    <id>http://blog.can2.moe/2016/06/13/对手机icon设计的浅认识/</id>
+    <published>2016-06-13T05:04:29.000Z</published>
+    <updated>2016-06-13T09:31:03.000Z</updated>
+    
+    <content type="html">&lt;h1 id=&quot;起源&quot;&gt;&lt;a href=&quot;#起源&quot; class=&quot;headerlink&quot; title=&quot;起源&quot;&gt;&lt;/a&gt;起源&lt;/h1&gt;&lt;p&gt;接到师大＋前辈设计的icon，不免深思起来&lt;br&gt;(略多图)&lt;br&gt;&lt;a id=&quot;more&quot;&gt;&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;经过建模后得到草图，以及一个一个拼凑起来的三角形&lt;br&gt;简直有毒哇！！！这个工程量［膜拜模式QwQrz］&lt;br&gt;&lt;img src=&quot;/2016/06/13/对手机icon设计的浅认识/8.png&quot; alt=&quot;8.png&quot; title=&quot;&quot;&gt;&lt;/p&gt;
+&lt;p&gt;然而最终效果却略感觉违和感。。。&lt;br&gt;&lt;img src=&quot;/2016/06/13/对手机icon设计的浅认识/1.png&quot; alt=&quot;1.png&quot; title=&quot;&quot;&gt;&lt;/p&gt;
+&lt;p&gt;扁平的轮廓加上三角形纹理的师大正大坊［似乎感觉那里不对&lt;br&gt;然而失去纹理的正大坊看起来和天线差不多（？&lt;br&gt;&lt;img src=&quot;/2016/06/13/对手机icon设计的浅认识/6.png&quot; alt=&quot;6.png&quot; title=&quot;&quot;&gt;&lt;br&gt;于是自己尝试不丢弃纹理的情况下改进一下&lt;/p&gt;
+&lt;h1 id=&quot;脑洞开始&quot;&gt;&lt;a href=&quot;#脑洞开始&quot; class=&quot;headerlink&quot; title=&quot;脑洞开始&quot;&gt;&lt;/a&gt;脑洞开始&lt;/h1&gt;&lt;p&gt;参照itunes的图标，背景用渐变色衬托，白色的背景也是显得比较有质感&lt;/p&gt;
+&lt;p&gt;于是决定采用亮红－&amp;gt; 暗红的渐变配色，正大坊和轮廓统一纹理&lt;br&gt;稍微亮些的红在右上角，感觉就像是阳光从右上斜照下来&lt;br&gt;白色背景也适当添加了些渐变&lt;br&gt;为了凸显正大坊，在正大坊添加了阴影&lt;br&gt;于是。。。。&lt;/p&gt;
+&lt;img src=&quot;/2016/06/13/对手机icon设计的浅认识/2.png&quot; alt=&quot;2.png&quot; title=&quot;&quot;&gt;
+&lt;p&gt;大图看起很正常的样子，然而手机安装完应用的样子。。。&lt;/p&gt;
+&lt;img src=&quot;/2016/06/13/对手机icon设计的浅认识/3.jpg&quot; alt=&quot;3.jpg&quot; title=&quot;&quot;&gt;
+&lt;img src=&quot;/2016/06/13/对手机icon设计的浅认识/4.jpg&quot; alt=&quot;4.jpg&quot; title=&quot;&quot;&gt;
+&lt;img src=&quot;/2016/06/13/对手机icon设计的浅认识/5.jpg&quot; alt=&quot;5.jpg&quot; title=&quot;&quot;&gt;
+&lt;p&gt;［一脸蒙逼］&lt;br&gt;特效过多反而和周围的图标显得格格不入，&lt;br&gt;而且貌似手机会自动剪裁图标或者加上各种奇怪的特效的样子。&lt;/p&gt;
+&lt;p&gt;经过一阵挣扎后，前辈重新做了方形的icon&lt;/p&gt;
+&lt;img src=&quot;/2016/06/13/对手机icon设计的浅认识/7.png&quot; alt=&quot;7.png&quot; title=&quot;&quot;&gt;
+&lt;p&gt;［效果图不贴惹～］&lt;/p&gt;
+&lt;h1 id=&quot;结语&quot;&gt;&lt;a href=&quot;#结语&quot; class=&quot;headerlink&quot; title=&quot;结语&quot;&gt;&lt;/a&gt;结语&lt;/h1&gt;&lt;p&gt;貌似移动设备的桌面多多少少总会出现些［统一全局］的样式&lt;br&gt;即便在原生系统桌面下&lt;br&gt;在这种状况下，应当突出图标的中心，放弃各种多余的修饰。［为什么一开始没发现呢orz］&lt;/p&gt;
+</content>
+    
+    <summary type="html">
+    
+      &lt;h1 id=&quot;起源&quot;&gt;&lt;a href=&quot;#起源&quot; class=&quot;headerlink&quot; title=&quot;起源&quot;&gt;&lt;/a&gt;起源&lt;/h1&gt;&lt;p&gt;接到师大＋前辈设计的icon，不免深思起来&lt;br&gt;(略多图)&lt;br&gt;
+    
+    </summary>
+    
+      <category term="设计" scheme="http://blog.can2.moe/categories/%E8%AE%BE%E8%AE%A1/"/>
+    
+    
+      <category term="设计" scheme="http://blog.can2.moe/tags/%E8%AE%BE%E8%AE%A1/"/>
+    
+      <category term="icon" scheme="http://blog.can2.moe/tags/icon/"/>
+    
+      <category term="脑洞" scheme="http://blog.can2.moe/tags/%E8%84%91%E6%B4%9E/"/>
+    
+  </entry>
+  
+  <entry>
     <title>第一次的hexo</title>
     <link href="http://blog.can2.moe/2016/06/11/%E7%AC%AC%E4%B8%80%E6%AC%A1%E7%9A%84hexo/"/>
     <id>http://blog.can2.moe/2016/06/11/第一次的hexo/</id>
     <published>2016-06-11T12:39:00.000Z</published>
-    <updated>2016-06-12T11:42:11.000Z</updated>
+    <updated>2016-06-13T05:09:43.000Z</updated>
     
     <content type="html">&lt;h1 id=&quot;博客什么的&quot;&gt;&lt;a href=&quot;#博客什么的&quot; class=&quot;headerlink&quot; title=&quot;博客什么的&quot;&gt;&lt;/a&gt;博客什么的&lt;/h1&gt;&lt;p&gt;其实并不是第一次拥有自己的博客，本着［干物］精神连原来的博客都不造在哪了。。。。&lt;br&gt;加上学姐安利的hexo博客框架&lt;br&gt;于是干脆从新来吧0v0（花钱买的域名自己肯定不会放置play的）&lt;/p&gt;
 &lt;a id=&quot;more&quot;&gt;&lt;/a&gt;
@@ -32,6 +74,7 @@
 &lt;h2 id=&quot;坑2-无法推送到远端git仓库&quot;&gt;&lt;a href=&quot;#坑2-无法推送到远端git仓库&quot; class=&quot;headerlink&quot; title=&quot;坑2 无法推送到远端git仓库&quot;&gt;&lt;/a&gt;坑2 无法推送到远端git仓库&lt;/h2&gt;&lt;p&gt;具体问题咱在sf上有&lt;a href=&quot;https://segmentfault.com/q/1010000005650284&quot; target=&quot;_blank&quot; rel=&quot;external&quot;&gt;提问&lt;/a&gt;&lt;/p&gt;
 &lt;h1 id=&quot;总结&quot;&gt;&lt;a href=&quot;#总结&quot; class=&quot;headerlink&quot; title=&quot;总结&quot;&gt;&lt;/a&gt;总结&lt;/h1&gt;&lt;p&gt;虽说有问题先找度娘，但是网上的教程方法大都参差不齐，这种［搜索式的学习］反而会留下各种奇怪的坑。&lt;/p&gt;
 &lt;p&gt;后面找到这篇&lt;a href=&quot;https://xuanwo.org/2014/08/14/hexo-usual-problem/&quot; target=&quot;_blank&quot; rel=&quot;external&quot;&gt;关于hexo常见问题解决方案&lt;/a&gt;的文章，有种相见恨晚的感觉。。。&lt;/p&gt;
+&lt;h1 id=&quot;链接&quot;&gt;&lt;a href=&quot;#链接&quot; class=&quot;headerlink&quot; title=&quot;链接&quot;&gt;&lt;/a&gt;链接&lt;/h1&gt;&lt;p&gt;漩涡的文章－&lt;a href=&quot;https://xuanwo.org/2014/08/14/hexo-usual-problem/&quot; target=&quot;_blank&quot; rel=&quot;external&quot;&gt;关于hexo常见问题解决方案&lt;/a&gt;&lt;/p&gt;
 </content>
     
     <summary type="html">
